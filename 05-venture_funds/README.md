@@ -7,4 +7,4 @@
 Проанализировать данные о фондах и инвестициях и написать запросы к базе.
 
 
-## [Cмотреть ход решения](https://github.com/laringerman/portfolio/tree/main/05-venture_funds/1.0-lgg-venture.ipunb)
+## [Cмотреть ход решения](https://github.com/laringerman/portfolio/blob/main/05-venture_funds/1.0-lgg-venture.ipynb)
