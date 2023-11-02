@@ -8,4 +8,4 @@
 Проанализировать данные о форрума и написать запросы к базе.
 
 
-## [Cмотреть ход решения](https://github.com/laringerman/portfolio/blob/main/05-venture_funds/1.0-lgg-StackOverflow.ipynb)
+## [Cмотреть ход решения](https://github.com/laringerman/portfolio/blob/main/07-stack_overflow/1.0-lgg-SQL_StackOverflow.ipynb)
