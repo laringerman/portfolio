@@ -14,6 +14,7 @@
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
 |-----------|-------------------|------------------------------------------------------------------|-----------------------------------|
+|18             |[Кинопоиск хакатон](https://github.com/laringerman/data_analyst_portfolio/blob/main/18-kinopoisk_hackathon/)| Анализ телеграм канала Кинопоиск. | `python` `pandas` `matplotlib` `seaborn` `numpy` `scipy` `nltk` `pymorphy2`|
 |17             |[Дашборд для email рассылок](https://github.com/laringerman/data_analyst_portfolio/blob/main/17-email_dashboard/)| Создание дашборда для отслеживания показателей email рассылок. |`Looker studio` `построение дашбордов` `визуализация данных`|
 |16             |[Анализ преступлений в Сырограде](https://github.com/laringerman/data_analyst_portfolio/blob/main/16-crime_analisys/cheesegrad.ipynb)| Анализ данных о преступлениях в вымышленном городе Сыроград и статистический анализ корреляции данных.|`Python` `Pandas` `Matplotlib` `Scipy` |
 |15             |[Анализ рынка автомобилей в Казахстане за 2019 год](https://github.com/laringerman/data_analyst_portfolio/blob/main/15-kz_auto/)|Очистка данных по продажам автомобилей в Казахстане за 2019 год, проведение анализа рынка и определить рыночные сегменты Меркур Авто.|`Python` `Pandas` `Matplotlib` `Seaborn` |
