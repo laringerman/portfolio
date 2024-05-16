@@ -14,6 +14,7 @@
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
 |-----------|-------------------|------------------------------------------------------------------|-----------------------------------|
+|19             |[Аналитика данных компании Gectaro](https://github.com/laringerman/data_analyst_portfolio/blob/main/19-gectaro/)| Составление портрета наиболее типичных клиентов, разбор в причинах оттока клиентов | `python` `pandas` `matplotlib` `seaborn` `scipy` `numpy`|
 |18             |[Кинопоиск хакатон](https://github.com/laringerman/data_analyst_portfolio/blob/main/18-kinopoisk_hackathon/)| Анализ телеграм канала Кинопоиск. | `python` `pandas` `matplotlib` `seaborn` `numpy` `scipy` `nltk` `pymorphy2`|
 |17             |[Дашборд для email рассылок](https://github.com/laringerman/data_analyst_portfolio/blob/main/17-email_dashboard/)| Создание дашборда для отслеживания показателей email рассылок. |`Looker studio` `построение дашбордов` `визуализация данных`|
 |16             |[Анализ преступлений в Сырограде](https://github.com/laringerman/data_analyst_portfolio/blob/main/16-crime_analisys/cheesegrad.ipynb)| Анализ данных о преступлениях в вымышленном городе Сыроград и статистический анализ корреляции данных.|`Python` `Pandas` `Matplotlib` `Scipy` |
