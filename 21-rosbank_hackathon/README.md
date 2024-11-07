@@ -19,4 +19,4 @@
 ## [Дашборд](https://public.tableau.com/app/profile/german.larin/viz/rosbank_team_7/MAIN)
 
 ## Диплом  
-![diploma](https://github.com/laringerman/data_analyst_portfolio/tree/main/21-rosbank_hackathon/diploma.png)
+![diploma](https://github.com/laringerman/data_analyst_portfolio/blob/main/21-rosbank_hackathon/diploma.png)
