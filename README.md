@@ -1,5 +1,5 @@
 ## Описание:
-В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум) (с 0 по 14) и дополнительные проекты, выполненные мной после завершения обучения.
+В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум) (с 0 по 14) и дополнительные проекты, выполненные мной после завершения обучения (с 15 по 21).
 
 ## Основные инструменты и навыки, полученные при обучении:
 - Языки: Python, SQL
@@ -14,9 +14,10 @@
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
 |-----------|-------------------|------------------------------------------------------------------|-----------------------------------|
+|21             |[Росбанк хакатон](https://github.com/laringerman/data_analyst_portfolio/tree/main/21-rosbank_hackathon)| Разработка дашборда анализа состояния команды и сотрудников для руководителей. 2 место.  | `Tableau`|
 |20             |[Парсинг сайта конкурента](https://github.com/laringerman/data_analyst_portfolio/blob/main/20-competitor_parsing/)| Ежедневный парсинг сайта конкурента, сохранение списка товаров в наличии в Google sheets и отправка отчета о точ, что появилось, а что закончилось, в telegram канал | `python` `pandas` `requests` `BeautifulSoup` `gspread` `GitHub Actions`|
 |19             |[Аналитика данных компании Gectaro](https://github.com/laringerman/data_analyst_portfolio/blob/main/19-gectaro/)| Составление портрета наиболее типичных клиентов, разбор в причинах оттока клиентов | `python` `pandas` `matplotlib` `seaborn` `scipy` `numpy`|
-|18             |[Кинопоиск хакатон](https://github.com/laringerman/data_analyst_portfolio/blob/main/18-kinopoisk_hackathon/)| Анализ телеграм канала Кинопоиск. | `python` `pandas` `matplotlib` `seaborn` `numpy` `scipy` `nltk` `pymorphy2`|
+|18             |[Кинопоиск хакатон](https://github.com/laringerman/data_analyst_portfolio/blob/main/18-kinopoisk_hackathon/)| Анализ телеграм канала Кинопоиск. 1 место. | `python` `pandas` `matplotlib` `seaborn` `numpy` `scipy` `nltk` `pymorphy2`|
 |17             |[Дашборд для email рассылок](https://github.com/laringerman/data_analyst_portfolio/blob/main/17-email_dashboard/)| Создание дашборда для отслеживания показателей email рассылок. |`Looker studio` `построение дашбордов` `визуализация данных`|
 |16             |[Анализ преступлений в Сырограде](https://github.com/laringerman/data_analyst_portfolio/blob/main/16-crime_analisys/cheesegrad.ipynb)| Анализ данных о преступлениях в вымышленном городе Сыроград и статистический анализ корреляции данных.|`Python` `Pandas` `Matplotlib` `Scipy` |
 |15             |[Анализ рынка автомобилей в Казахстане за 2019 год](https://github.com/laringerman/data_analyst_portfolio/blob/main/15-kz_auto/)|Очистка данных по продажам автомобилей в Казахстане за 2019 год, проведение анализа рынка и определить рыночные сегменты Меркур Авто.|`Python` `Pandas` `Matplotlib` `Seaborn` |
